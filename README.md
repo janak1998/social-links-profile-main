@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/mobile-first-solution-using-tailwind-bIfkxgBiPJ)
-- Live Site URL: live site URL](https://janak1998.github.io/social-links-profile-main/)
+- Live Site URL: [live site URL](https://janak1998.github.io/social-links-profile-main/)
 
 ## My process
 
